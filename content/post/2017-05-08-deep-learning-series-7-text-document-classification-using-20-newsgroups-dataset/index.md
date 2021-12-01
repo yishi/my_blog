@@ -1,14 +1,14 @@
 ---
 title: 'Deep Learning Series 7: Text Document Classification Using 20 Newsgroups Dataset'
 author: ''
-date: '2017-05-08'
-slug: deep-learning-series-7-text-document-classification-using-20-newsgroups-dataset
+date: '2017-05-09'
 categories:
   - python
 tags:
+  - classification
   - deep_learning
   - text mining
-  - classification
+slug: deep-learning-series-7-text-document-classification-using-20-newsgroups-dataset
 ---
 
 [Deep Learning Series 7: Text Document Classification Using 20 Newsgroups Dataset](https://nbviewer.org/github/yishi/Deep-Learning-Series-in-Python/blob/master/deep_learning_series_7.ipynb)
